@@ -1,0 +1,17 @@
+Lassi,Panner,Bread,Coffee Powder,Ghee
+Lassi,Panner,Sugar,Bread,Ghee
+Lassi,Panner,Sugar,Bread,Coffee Powder
+Lassi,Panner,Sugar,Sweet,Bread
+Tea Powder,Lassi,Panner,Sweet,Coffee Powder
+Tea Powder,Lassi,Panner,Sweet,Milk
+Lassi,Panner,Sweet,Yougurt,Coffee Powder
+Lassi,Panner,Cheese,Sweet,Yougurt
+Lassi,Panner,Sugar,Sweet,Milk
+Butter,Sugar,Sweet,Yougurt,Coffee Powder
+Lassi,Butter,Sugar,Sweet,Yougurt
+Lassi,Butter,Sugar,Sweet,Milk
+Lassi,Panner,Butter,Sugar,Sweet
+Lassi,Panner,Sweet,Bread,Coffee Powder
+Lassi,Panner,Sweet,Bread,Milk
+Butter,Sugar,Yougurt,Coffee Powder,Milk
+Tea Powder,Lassi,Panner,Sweet,Bread
