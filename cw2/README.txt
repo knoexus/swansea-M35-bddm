@@ -8,9 +8,5 @@ As for the coursework only one data mining problem had to be solved, we left the
 
 Supplementary notebooks:
 
-1) Supplementary_Predicting_Seller.ipynb
-The purpose of this notebook is to illustrate how real estate agents could be predicted using ANN.
-To run the code please run each cell one by one in a sequential order. 
-
-2) Supplementary_Association.ipynb
-In this notebook we use a different approach to recommend real estate agents, using Association Rule Mining. To run the code please run each cell one by one in a sequential order. 
+1) Supplementary_Association.ipynb
+In this notebook we use a different (to modelling) approach to recommend real estate agents using Association Rule Mining. To run the code please run each cell one by one in a sequential order. 'Experiments' section can fully be skipped.
